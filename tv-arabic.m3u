@@ -7,5 +7,3 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpfDRKPn/c4.jpg", Cahnnel 4
 https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
-#EXTINF:-1 group-title="Action" tvg-logo="https://i.postimg.cc/GpfDRKPn/c4.jpg", Cahnnel 4
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
