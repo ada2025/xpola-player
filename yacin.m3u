@@ -1,0 +1,55 @@
+#EXTM3U
+#play this list at xPola player (https://play.google.com/store/apps/details?id=com.xpola.player)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 1 (244) (244)
+https://a501.variety-buy.store/api/channel/44
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 2 (244) (244) 
+https://a501.variety-buy.store/api/channel/45
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS3.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 3 (244) 
+https://a501.variety-buy.store/api/channel/46
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-4.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 4 (244) 
+https://a501.variety-buy.store/api/channel/47
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-5.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 5 (244) 
+https://a501.variety-buy.store/api/channel/48
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-6.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 6 (244) 
+https://a501.variety-buy.store/api/channel/49
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 7 (244) 
+https://a501.variety-buy.store/api/channel/50
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS8.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 8 (244) 
+https://a501.variety-buy.store/api/channel/51
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS9.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 9 (244) 
+https://a501.variety-buy.store/api/channel/52
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png" group-title="BEIN SPORTS 1080P",BEIN SPORTS 1 (1080) 
+
+https://a501.variety-buy.store/api/channel/1424
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png" group-title="BEIN SPORTS 1080P",BEIN SPORTS 2 (1080) 
+
+https://a501.variety-buy.store/api/channel/1425
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS3.png" group-title="BEIN SPORTS 1080P",BEIN SPORTS 3 (1080)
+
+https://a501.variety-buy.store/api/channel/1426
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-4.png" group-title="BEIN SPORTS 1080P",BEIN SPORTS 4 (1080)
+
+https://a501.variety-buy.store/api/channel/1427
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-5.png" group-title="BEIN SPORTS 1080P",BEIN SPORTS 5 (1080)
+
+https://a501.variety-buy.store/api/channel/1428
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-6.png" group-title="BEIN SPORTS 1080P",BEIN SPORTS 6 (1080)
+
+https://a501.variety-buy.store/api/channel/1429
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png" group-title="BEIN SPORTS 1080P",BEIN SPORTS 7 (1080)
+
+https://a501.variety-buy.store/api/channel/1430
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS8.png" group-title="BEIN SPORTS 1080P",BEIN SPORTS 8 (1080)
+
+https://a501.variety-buy.store/api/channel/1431
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS9.png" group-title="BEIN SPORTS 1080P",BEIN SPORTS 9 (1080)
+
+https://a501.variety-buy.store/api/channel/1432
